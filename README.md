@@ -2,6 +2,8 @@
 
 > Extending Chen, Lu & Cai (2020) — _Buyer Financing in Pull Supply Chains_ — with machine learning demand forecasting and an interactive decision support dashboard.
 
+> ⚡ **Updated version:** [Supply_Chain_Finance_V2](https://github.com/MerjenDursunova/Supply_Chain_Finance_V2) —
+> same project, productionized: FastAPI serving, SQL analytics, Docker, CI.
 ---
 
 ## Overview
